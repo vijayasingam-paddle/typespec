@@ -193,6 +193,7 @@ obj/
 *.sln.docstates
 *.lock.json
 developer/
+*.iml
 
 # tsc incremental build files
 *.tsbuildinfo
